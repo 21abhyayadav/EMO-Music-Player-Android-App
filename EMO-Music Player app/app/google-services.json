@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169154860916",
+    "firebase_url": "https://emomusic-f4a0a.firebaseio.com",
+    "project_id": "emomusic-f4a0a",
+    "storage_bucket": "emomusic-f4a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169154860916:android:9e33a3fdef7b8085",
+        "android_client_info": {
+          "package_name": "com.music.player.emo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169154860916-3mktnflomq7bk9sopvtcbb08bf999v58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.music.player.emo",
+            "certificate_hash": "488fc409484c57c738959041b7ea411044a0ec4f"
+          }
+        },
+        {
+          "client_id": "169154860916-tcqq4uhlc6te08e55eoa16i842hjpior.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6mZNFWVZ5WqfOPv-46_-DcTyWmlCZ5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169154860916-tcqq4uhlc6te08e55eoa16i842hjpior.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

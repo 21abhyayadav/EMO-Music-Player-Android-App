@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Characteristics"
+    >
+<menu>
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/local_mp3"
+        android:icon="@drawable/local"
+        android:title="Local Mp3" />
+    <item
+        android:id="@+id/nav_downloadsongs"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Download Songs" />
+    <item
+        android:id="@+id/nav_recentlyplayed"
+        android:icon="@drawable/rec"
+        android:title="Recently Played" />
+    <item
+        android:id="@+id/nav_favourites"
+        android:icon="@drawable/fav"
+        android:title="Favourites" />
+
+</menu>
+</item>
+
+<item android:title="Additional">
+<menu>
+    <!--<item-->
+        <!--android:id="@+id/nav_helpandsupport"-->
+        <!--android:icon="@drawable/help"-->
+        <!--android:title="About Us" />-->
+
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/share"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/user"
+        android:title="Log Out" />
+</menu>
+</item>
+
+    </menu>
